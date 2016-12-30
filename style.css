@@ -36,7 +36,7 @@ body {
   min-width: 820px;
 }
 a {
-  color: #4F8EF7;
+  color: #e44d3c;
   transition: color .15s ease;
 }
 ::focus {
@@ -54,7 +54,7 @@ input:hover, textarea:hover, .roundfield textarea:hover, .roundfield input[type=
 }
 input:active, textarea:active, .roundfield textarea:active, .roundfield input[type=text]:active, .roundfield input[type=url]:active, .roundfield input[type=password]:active, .roundfield input[type=number]:active, .linefield textarea:active, .linefield input[type=text]:active, .linefield input[type=password]:active, .pretty-form input[type=text]:active, .pretty-form textarea:active, .pretty-form input[type=password]:active, .pretty-form input[type=number]:active, .login-form-side input[type=text]:active, .login-form-side input[type=password]:active {
   outline: none!important;
-  border-color: #4F8EF7;
+  border-color: #e44d3c;
   color: #4D5763;
 }
 .btn, button {
@@ -74,11 +74,11 @@ input:active, textarea:active, .roundfield textarea:active, .roundfield input[ty
 }
 .btn:hover, button:hover {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.34);
-  background-color: #5A72EE;
+  background-color: #e44d3c;
 }
 .btn:active, button:active {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
-  background-color: #4059DB;
+  background-color: #e44d3c;
 }
 .btn:focus, button:focus {
   outline: none;
@@ -482,7 +482,7 @@ body:not(.loggedin) #header-bottom-right {
   position: absolute;
   top: 148px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.24);
-  background-color: #516ae8;
+  background-color: #e44d3c;
   background-image: url(%%spritesheet%%)!important;
   background-position: 268px -214px!important;
   background-repeat: no-repeat!important;
@@ -498,7 +498,7 @@ body:not(.loggedin) #header-bottom-right {
   font-family: verdana, arial, sans-serif;
 }
 .morelink:hover {
-  background-color: #5a72ee;
+  background-color: #e44d3c;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.24);
 }
 .morelink:active {
@@ -610,7 +610,7 @@ div.titlebox span.number:after {
   margin-top: 16px;
 }
 .titlebox .tagline a.flairselectbtn {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .titlebox .tagline a.flairselectbtn:after {
   content: " flair"}
@@ -674,7 +674,7 @@ div.titlebox span.number:after {
   background-color: rgba(0, 0, 0, 0.05);
 }
 .titlebox .fancy-toggle-button .remove:active {
-  background-color: #5A72EE;
+  background-color: #e44d3c;
   background-position: -208px -144px;
 }
 .titlebox .fancy-toggle-button .add:after, .fancy-toggle-button .remove:after {
@@ -746,11 +746,11 @@ div.titlebox span.number:after {
   font-size: 12px;
 }
 .side .titlebox .md h3 a:hover {
-  background-color: #5A72EE;
+  background-color: #e44d3c;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.54);
 }
 .side .titlebox .md h3 a:active {
-  background-color: #4059DB;
+  background-color: #e44d3c;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.54);
 }
 .side .titlebox .md h4 a, .wiki-page .wiki-page-content .md.wiki h4 {
@@ -861,7 +861,7 @@ body >.content .link .rank, .rank-spacer {
   color: #ff6422;
 }
 .link .score.dislikes {
-  color: #5c5bd7;
+  color: #e44d3c;
 }
 .arrow {
   margin: 0 0 0 2px;
@@ -969,7 +969,7 @@ a.thumbnail img {
   vertical-align: middle;
   position: relative;
   top: -2px;
-  background-color: #4F8EF7;
+  background-color: #e44d3c;
 }
 .linkflair-inspiration .linkflairlabel {
   background-color: #ea4848;
@@ -979,7 +979,7 @@ a.thumbnail img {
   background: url(%%spritesheet%%) -143px -140px;
 }
 .linkflair-waywo .linkflairlabel {
-  background-color: #516ae8;
+  background-color: #e44d3c;
   color: #fff;
 }
 .linkflair-waywo .thumbnail.self {
@@ -1004,7 +1004,7 @@ a.thumbnail img {
   line-height: 1.33;
 }
 body .content .sitetable .link .title a:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .link .entry {
   padding: 15px 32px 14px 0;
@@ -1012,13 +1012,13 @@ body .content .sitetable .link .title a:hover {
   margin-left: 0;
 }
 .thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .content .thing .title:visited, .content .thing.visited .title {
   color: #7D5D8A;
 }
 .thing .title.loggedin.click:visited, .thing .title.click:visited {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .link .domain {
   visibility: hidden;
@@ -1031,7 +1031,7 @@ body .content .sitetable .link .title a:hover {
   transition: all .15s ease;
 }
 .link .domain a:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
   text-decoration: none;
 }
 .approval-checkmark {
@@ -1049,8 +1049,8 @@ body .content .sitetable .link .title a:hover {
   cursor: pointer;
 }
 .expando-button:hover {
-  background-color: #4F8EF7;
-  border-color: #4F8EF7;
+  background-color: #e44d3c;
+  border-color: #e44d3c;
 }
 .expando-button.selftext.collapsed {
   background-position: -32px -32px!important;
@@ -1138,7 +1138,7 @@ body .content .sitetable .link .title a:hover {
   cursor: help;
 }
 .link .entry .tagline a:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
   text-decoration: none;
 }
 .link .entry .tagline a.author {
@@ -1187,7 +1187,7 @@ body .content .sitetable .link .title a:hover {
   transition: all .15s ease;
 }
 .link .entry .buttons li a:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
   text-decoration: none;
 }
 .nsfw-stamp acronym {
@@ -1200,7 +1200,7 @@ body .content .sitetable .link .title a:hover {
   cursor: help;
 }
 .link .entry .buttons li a.comments {
-  color: #4F8EF7;
+  color: #e44d3c;
   font-weight: 700!important;
   opacity: 100!important;
   transition: all .25s ease-in-out!important;
@@ -1245,7 +1245,7 @@ body .content .sitetable .link .title a:hover {
   padding: 8px;
 }
 .link .entry .buttons li a.flairselectbtn {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .link .entry .buttons li .redditSingleClick {
   padding: 0 1px;
@@ -1396,7 +1396,7 @@ body>.content .link.compressed .midcol {
 .flairselector h2 {
   margin-bottom: 4px;
   background-color: transparent;
-  color: #4F8EF7;
+  color: #e44d3c;
   text-align: left;
   font-weight: 400;
   font-size: 18px;
@@ -1424,7 +1424,7 @@ body>.content .link.compressed .midcol {
 .flairoptionpane ul li .linkflair a.title {
   font-size: 18px!important;
   opacity: 100!important;
-  color: #4F8EF7!important;
+  color: #e44d3c!important;
 }
 .flairselector form {
   padding-top: 12px;
@@ -1441,7 +1441,7 @@ body>.content .link.compressed .midcol {
 .flairselector form .flairselection .linkflair a.title {
   font-size: 18px!important;
   opacity: 100!important;
-  color: #4F8EF7!important;
+  color: #e44d3c!important;
   cursor: default;
 }
 .flairselector form .flairselection .flairremove {
@@ -1453,7 +1453,7 @@ body>.content .link.compressed .midcol {
 .flairselector form .flairselection .flairremove a {
   visibility: visible;
   opacity: 100!important;
-  color: #4F8EF7!important;
+  color: #e44d3c!important;
   margin-left: -4px;
 }
 .flairselector form .flairselection .flairremove a:first-letter {
@@ -1509,7 +1509,7 @@ body>.content .link.compressed .midcol {
 div.RES-keyNav-activeElement, div.commentarea div.RES-keyNav-activeElement.entry div.noncollapsed {
   background-color: transparent!important;
   padding-left: 8px!important;
-  border-left: 2px solid #4F8EF7;
+  border-left: 2px solid #e44d3c;
 }
 div.commentarea div.RES-keyNav-activeElement .md {
   background-color: transparent!important;
@@ -1533,7 +1533,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   margin-top: 8px;
 }
 .RESDialogSmall > h3 {
-  color: #4F8EF7;
+  color: #e44d3c;
   background-color: #FFF;
   border-bottom: 1px solid #EDEDED;
   height: 36px;
@@ -1562,8 +1562,8 @@ div.commentarea div.RES-keyNav-activeElement .md {
 }
 .toggleButton .toggleOn {
   border-radius: 0;
-  border: 1px solid #4F8EF7;
-  background-color: #4F8EF7;
+  border: 1px solid #e44d3c;
+  background-color: #e44d3c;
   color: #fff;
 }
 .toggleButton .toggleOff {
@@ -1603,7 +1603,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   font-size: 12px;
   pointer-events: none;
   padding: 10px 16px;
-  background-color: #5A72EE;
+  background-color: #e44d3c;
   overflow: visible;
   color: #FFF;
 }
@@ -1629,7 +1629,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   background-color: #F5F8F9;
 }
 .top-page .content .menuarea .drop-choices.lightdrop a.choice.selected {
-  background-color: #4f8ef7;
+  background-color: #e44d3c;
   color: #fff;
 }
 .guider {
@@ -1637,13 +1637,13 @@ div.commentarea div.RES-keyNav-activeElement .md {
   box-shadow: 0 2px 3px #DDD;
 }
 .guider_content h1 {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .guider_button {
   font-size: 11px;
   border: none;
   background-image: none;
-  background-color: #4F8EF7;
+  background-color: #e44d3c;
   transition: all .15s ease;
 }
 .guider_button:hover {
@@ -1755,7 +1755,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   color: #b3b3b3;
 }
 .commentarea .menuarea .dropdown.lightdrop .selected:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .commentarea .menuarea .dropdown.lightdrop .selected:after {
   content: "▼"}
@@ -1769,7 +1769,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   transition: all .1s ease;
 }
 .drop-choices a.choice:hover {
-  background-color: #4F8EF7;
+  background-color: #e44d3c;
   color: #fff;
 }
 .commentarea .menuarea .toggle a, .help-hoverable {
@@ -1777,7 +1777,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   font-weight: 400;
 }
 .commentarea .menuarea .toggle a:hover, .help-hoverable:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .commentarea>.usertext {
   background-color: #FAFAFA;
@@ -1798,7 +1798,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   width: 500px;
 }
 .usertext .bottom-area a.reddiquette {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .gold-accent.comment-visits-box {
   margin: 0 0 12px;
@@ -1854,7 +1854,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
 .comment .expand:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #4F8EF7;
+  background-color: #e44d3c;
 }
 .comment .author {
   color: #4D5763;
@@ -1862,7 +1862,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   font-weight: 700;
 }
 .comment .author:hover {
-  color: #4f8ef7;
+  color: #e44d3c;
   text-decoration: none;
 }
 .tagline .moderator, .green {
@@ -1871,18 +1871,18 @@ div.commentarea div.RES-keyNav-activeElement .md {
 }
 .tagline .submitter {
   font-weight: 700;
-  color: #4f8ef7;
+  color: #e44d3c;
 }
 .res .thing .tagline .author.submitter {
   padding: 1px 4px;
   border-radius: 1px;
-  background-color: #4F8EF7!important;
+  background-color: #e44d3c!important;
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
   transition: all .15s ease;
 }
 .res .thing .tagline .author.submitter:hover {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  background-color: #4F8EF7!important;
+  background-color: #e44d3c!important;
 }
 .comment .score {
   font-size: inherit;
@@ -1899,7 +1899,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   margin-top: 0;
 }
 .md a {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .md a:visited {
   color: #7D5D8A;
@@ -1932,16 +1932,16 @@ div.commentarea div.RES-keyNav-activeElement .md {
   font-size: 10px;
 }
 .comment .flat-list li a:hover {
-  color: #4F8EF7;
+  color: #e44d3c;
   text-decoration: none;
 }
 .comment .flat-list li a[onclick*="reply"] {
-  color: #4F8EF7;
+  color: #e44d3c;
   font-weight: 700;
   font-size: 11px;
 }
 .deepthread a {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .comments-page .side {
   margin-top: 312px;
@@ -2189,8 +2189,8 @@ div.commentarea div.RES-keyNav-activeElement .md {
 }
 .wiki-page .pageactions .wikiaction-current {
   padding: 10px 16px 7px;
-  border-bottom: 4px solid #4F8EF7;
-  color: #4F8EF7;
+  border-bottom: 4px solid #e44d3c;
+  color: #e44d3c;
 }
 .wiki-page .pageactions .wikiaction:hover, .wiki-page .pageactions .wikiaction-current:hover {
   background-color: rgba(0, 0, 0, 0.05);
@@ -2231,7 +2231,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   width: 531px;
 }
 .linefield .title {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .linefield .title:first-letter, .linefield label:first-letter {
 }
@@ -2239,7 +2239,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   color: #b3b3b3;
 }
 .usertext .bottom-area a:hover {
-  color: #4f8ef7;
+  color: #e44d3c;
 }
 .pretty-form {
   padding-top: 24px;
@@ -2264,7 +2264,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   font-size: 14px;
 }
 .tabmenu li.selected a {
-  color: #4F8EF7;
+  color: #e44d3c;
   background-color: transparent;
   border: none;
 }
@@ -2275,7 +2275,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
   color: #b3b3b3;
 }
 .tabpane-content .tagline a {
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .tabpane-content .thing .title {
   overflow: visible;
@@ -2488,7 +2488,7 @@ html.res-commentBoxes .comment {
 }
 .res .RESshortcutside:hover, .res .RESDashboardToggle:hover {
   background-color: transparent;
-  color: #4F8EF7;
+  color: #e44d3c;
 }
 .res #progressIndicator {
   width: inherit;
@@ -2548,21 +2548,21 @@ html.res-commentBoxes .comment {
   transition: all .25s ease;
 }
 #RESMainGearOverlay {
-  background-color: #516ae8;
+  background-color: #e44d3c;
   top: 0!important;
   height: 26px!important;
   border-radius: 0!important;
 }
 .RESDropdownList {
-  border-color: #4258ca;
+  border-color: #e44d3c;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.24);
   margin-top: 4px;
   margin-right: 8px;
 }
 .RESDropdownList li {
-  background-color: #516ae8;
+  background-color: #e44d3c;
   color: #fff;
-  border-color: #4258ca;
+  border-color: #e44d3c;
   transition: all .15s ease;
 }
 .RESDropdownList li:first-letter {
@@ -2572,15 +2572,15 @@ html.res-commentBoxes .comment {
 }
 .RESDropdownList li:hover, .RESDropdownList li a:hover {
   color: #fff;
-  background-color: #667df0;
+  background-color: #e44d3c;
 }
 #RESSearchMenuItem {
-  border: 1px solid #4258ca;
+  border: 1px solid #e44d3c;
   border-radius: 1px;
-  background-color: #667df0;
+  background-color: #e44d3c;
 }
 #RESSearchMenuItem:hover {
-  background-color: #667df0;
+  background-color: #e44d3c;
 }
 .toggleButton .toggleOn, .toggleButton .toggleOff {
   text-transform: lowercase;
@@ -2588,7 +2588,7 @@ html.res-commentBoxes .comment {
 .moduleToggle:not(.enabled) .toggleOn, .toggleButton:not(.enabled) .toggleOn, .moduleToggle.enabled .toggleOff, .toggleButton.enabled .toggleOff {
   background-color: transparent;
   color: rgba(255, 255, 255, 0.6);
-  border: 1px solid #4258ca;
+  border: 1px solid #e44d3c;
   transition: all .15s ease;
   border-radius: 2px;
 }
